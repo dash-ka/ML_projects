@@ -6,4 +6,3 @@ In our analysis we consider three implementations of Kernel Perceptron:
 - Vanilla Kernel Perceptron
 - ERM Kernel Peceptron
 - Averaged Kernel Perceptron
-All the models are validated for different values of the number of epoch and polynomial degree, using the zero-one loss.
